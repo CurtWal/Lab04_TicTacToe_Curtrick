@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lab04_TicTacToe
-build_property.ProjectDir = /Users/erhodess3/401/Lab04_TicTacToe/starter-code/Lab04_TicTacToe/
+build_property.ProjectDir = /home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/

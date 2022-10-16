@@ -45,6 +45,34 @@ namespace Lab04_TicTacToe.Classes
                 and make sure that the game continues while there are unmarked spots on the board. 
             Use any and all pre-existing methods in this program to help construct the method logic. 
              */
+	  int numberOfTurns = 0;
+      bool isThereAWinner = false;
+      Player whoseTurn = PlayerOne;
+      Player Draw = new Player();
+      Draw.Name = "it's a Draw";
+
+      while (!isThereAWinner)
+      {
+        if (numberOfTurns == 9) // if its a draw, break
+        {
+          isThereAWinner = true;
+          Winner = Draw;
+        }
+        else
+        {
+          // this is essentially the loop i gotta do to play the game
+          Board.DisplayBoard();
+          whoseTurn.TakeTurn(Board);
+          SwitchPlayer();
+          numberOfTurns++;
+          isThereAWinner = CheckForWinner(Board);
+          whoseTurn = NextPlayer();
+        }
+      }
+      Board.DisplayBoard(); // display board one more time when game ends
+
+      //this is gonna return a winner, instance of player
+      return Winner;
 		}
 
 
@@ -55,6 +83,8 @@ namespace Lab04_TicTacToe.Classes
 		/// <returns>if winner exists</returns>
 		public bool CheckForWinner(Board board)
 		{
+			 bool isWinner = false;
+			 
 			int[][] winners = new int[][]
 			{
 				new[] {1,2,3},
@@ -83,9 +113,23 @@ namespace Lab04_TicTacToe.Classes
 				// TODO:  Determine a winner has been reached. 
 				// return true if a winner has been reached. 
 			
-			}
+			if (a == "X" && b == "X" && c == "X")
+        {
+          isWinner = true;
+          Winner = PlayerOne;
+          break;
+        }
+        else if (a == "O" && b == "O" && c == "O")
+        {
+          isWinner = true;
+          Winner = PlayerTwo;
+          break;
+        }
+        else { isWinner = false; }
+        // return true if a winner has been reached. 
+      }
 
-			return false;
+      return isWinner;
 		}
 
 

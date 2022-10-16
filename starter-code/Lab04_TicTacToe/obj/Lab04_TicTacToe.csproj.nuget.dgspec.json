@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erhodess3/401/Lab04_TicTacToe/starter-code/Lab04_TicTacToe/Lab04_TicTacToe.csproj": {}
+    "/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/Lab04_TicTacToe.csproj": {}
   },
   "projects": {
-    "/Users/erhodess3/401/Lab04_TicTacToe/starter-code/Lab04_TicTacToe/Lab04_TicTacToe.csproj": {
+    "/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/Lab04_TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erhodess3/401/Lab04_TicTacToe/starter-code/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
+        "projectUniqueName": "/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
         "projectName": "Lab04_TicTacToe",
-        "projectPath": "/Users/erhodess3/401/Lab04_TicTacToe/starter-code/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
-        "packagesPath": "/Users/erhodess3/.nuget/packages/",
-        "outputPath": "/Users/erhodess3/401/Lab04_TicTacToe/starter-code/Lab04_TicTacToe/obj/",
+        "projectPath": "/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/Lab04_TicTacToe.csproj",
+        "packagesPath": "/home/curtrick/.nuget/packages/",
+        "outputPath": "/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/erhodess3/.nuget/NuGet/NuGet.Config"
+          "/home/curtrick/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/bin/Debug/net6.0/Lab04_TicTacToe
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/bin/Debug/net6.0/Lab04_TicTacToe.deps.json
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/bin/Debug/net6.0/Lab04_TicTacToe.runtimeconfig.json
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/bin/Debug/net6.0/Lab04_TicTacToe.dll
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/bin/Debug/net6.0/Lab04_TicTacToe.pdb
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/Lab04_TicTacToe.csproj.AssemblyReference.cache
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/Lab04_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/Lab04_TicTacToe.AssemblyInfoInputs.cache
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/Lab04_TicTacToe.AssemblyInfo.cs
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/Lab04_TicTacToe.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/Lab04_TicTacToe.dll
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/ref/Lab04_TicTacToe.dll
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/Lab04_TicTacToe.pdb
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/Lab04_TicTacToe.genruntimeconfig.cache
+/home/curtrick/code_401/Labs/Lab04_TicTacToe_Curtrick/starter-code/Lab04_TicTacToe/obj/Debug/net6.0/refint/Lab04_TicTacToe.dll
